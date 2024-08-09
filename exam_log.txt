@@ -1,0 +1,56 @@
+    1  pkg update
+    2  pkg upgrade
+    3  pkg install proot-distro
+    4  proot-distro install Ubuntu
+    5  proot-distro install ubuntu
+    6  proot-distro login ubuntu
+    7  exit
+    8  cd /yourrepo
+    9  ls
+   10  exit
+   11  mkdir linux_practice
+   12  cd linux_practice
+   13  touch notes.txt
+   14  ls
+   15  echo "Hello, Linux!" > notes.txt
+   16  echo "Hello, Linux!" >> notes.txt
+   17  echo "This is a practical exam." >> notes.txt
+   18  head notes.txt
+   19  tail notes.txt
+   20  mkdir subdir
+   21  mv notes.txt subdir
+   22  ls
+   23  cd subdir
+   24  ls
+   25  rn subdir practice_subdir
+   26  mv src subdir practice_subdir
+   27  cd linux_practice
+   28  cd /linux_practice
+   29  mv src source subdir practice_subdir
+   30  --help
+   31  git --help
+   32  mv src subdir practice_subdir
+   33  mv subdir practice_subdir
+   34  mv source subdir practice_subdir
+   35  cp notes.txt linux_practice
+   36  cd ..
+   37  mv src source subdir practice_
+   38  mv src source practice_subdir subdir
+   39  mv practice_subdir subdir
+   40  mv src practice_subdir subdir
+   41  mv subdir practice_subdir
+   42  ls
+   43  cd //
+   44  cd linux_practice
+   45  cd 234737987_Adora
+   46  git init
+   47  cd..
+   48  ls
+   49  cd /234737987_Adora
+   50  git init
+   51  exit
+   52  cd 234737987_Adora
+   53  git branch finalexam
+   54  cd finalexam
+   55  git checkout -b finalexam
+   56  history > exam_log.txt
