@@ -54,3 +54,67 @@
    54  cd finalexam
    55  git checkout -b finalexam
    56  history > exam_log.txt
+   57  git add . exam_log.txt
+   58  git commit -m "Added exam_log.txt with command history."
+   59  cat exam_log.txt
+   60  git push
+   61  git push origin finalexam
+   62  git status
+   63  git log
+   64  git checkout -b finalexam
+   65  history > exam_log.txt
+   66  git add . exam_log.txt
+   67  git commit -m "Added exam_log.txt with command history"
+   68  cat exam_log.txt
+   69  git push origin finalexam
+   70  git pull
+   71  git branch --set-uostream-to=origin/finalexam finalexam
+   72  git push origin finalexam
+   73  git init
+   74  git checkout -b finalexam
+   75  history > exam_log.txt
+   76  git add . exam_log.txt
+   77  git commit -m "Added exam_log.txt with command history"
+   78  git push origin finalexma
+   79  git push origin finalexam
+   80  git pull
+   81  git pull https://github.com/adrian-aizen/234737987_Adora
+   82  git pull https://github.com/adrian-aizen/234737987_Adora/branches
+   83  git pull https://github.com/adrian-aizen/234737987_Adora
+   84  git pull https://github.com/adrian-aizen/234737987_Adora finalexam
+   85  git pull https://github.com/adrian-aizen/234737987_Adora finalexam --rebase
+   86  git push origin finalexam
+   87* 
+   88  git push main finalexam
+   89* 
+   90  git push origin finalexam
+   91  ssh-keygen -t ed25519 -C "aidss24adora@gmail.com"
+   92  ssh-keygen -t rsa -b 4096 -C "aidss24adora@gmail.com"
+   93  ssh-add ~/.ssh/id_ed25519
+   94  gh auth login
+   95  git push origin finalexam
+   96  git init
+   97  git log
+   98  history > exam_log.txt
+   99  git add . exam_log.txt
+  100  gut commit -m "Added exam_log.txt with command history"
+  101  git commit -m "Added exam_log.txt with command history"
+  102  git push origin finalexam
+  103  git push main finalexam
+  104  git push master finalexam
+  105  gh auth login
+  106  git init
+  107  apt update
+  108  apt upgrade
+  109  git init
+  110  git checkout -b finalexam
+  111  git checkout -b final_exam
+  112  history > exam_log.txt
+  113  git add . exam_log.txt
+  114  git commit -m "Added exam_log.txt with command history"
+  115  git push origin final_exam
+  116  cd 234737987_Adora
+  117  git init
+  118  git checkout -b finalexam
+  119  git checkout -b final_exam
+  120  history > exam_log.txt
